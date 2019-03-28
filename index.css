@@ -20,3 +20,12 @@
     margin: 2% auto;
     border-radius: 20px;
 }
+
+.bread-bottom {
+    height: 13%;
+    width: 80%;
+    background: linear-gradient(#f08e4a, #e27b36);
+    margin: 2% auto;
+    box-shadow: inset -15px 0 #c15711;
+    border-radius: 0 0 30px 30px;
+}
